@@ -1,0 +1,12 @@
+{
+    "name": "Docker Node.js Web Application",
+    "private": true,
+    "version": "0.0.1",
+    "description": "Docker Node.js Application",
+    "author": "Winfred Ma",
+    "dependencies": {
+        "express": "4.11.0",
+        "mongodb": "1.4.28",
+        "body-parser": "1.9.2"
+    }
+}
